@@ -4,10 +4,10 @@
 
 # 🌐 Awesome Multi-Entity & Subsidiary Management 🏢
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandttta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a> <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multi-Entity-Subsidiary-Management/pulls)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Multi-Entity-Subsidiary-Management)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Multi-Entity-Subsidiary-Management) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **A curated list of top Multi-Entity, Multi-Company, and Subsidiary Management platforms** — comparing enterprise SaaS ERP and accounting suites alongside self-hosted open-source alternatives for complex corporate hierarchies, intercompany eliminations, transfer pricing, multi-currency reporting, and consolidated balance sheets.
 >
@@ -27,6 +27,8 @@
 - [📊 Architectural Comparison at a Glance](#-architectural-comparison-at-a-glance)
 - [💡 Key Concepts in Multi-Entity Management](#-key-concepts-in-multi-entity-management)
 - [🤝 Contributing](#-contributing)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -193,6 +195,25 @@ If you would like to submit an open-source or commercial multi-entity platform:
 3. Ensure the project provides clear multi-company or multi-subsidiary capabilities.
 4. Add your tool with tech stack, licensing, and multi-entity attributes.
 5. Commit your changes and open a Pull Request! 🚀
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for using and exploring this curated repository! If you find this project valuable for your work, team, or enterprise architecture research, please consider supporting it:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and contribute new tools or improve existing data.
+- 📢 **Share** it on LinkedIn, Twitter/X, Reddit, or your favorite developer/finance community.
+- ☕ **Buy me a coffee / Sponsor**: If this project saved you hours of research, you can support future maintenance and development directly on GitHub:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Multi-Entity-Subsidiary-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Multi-Entity-Subsidiary-Management&type=date&legend=top-left)
 
 ---
 
